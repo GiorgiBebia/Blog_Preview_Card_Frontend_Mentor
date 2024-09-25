@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blog_Preview_Card_Frontend_Mentor/static/css/main.bea1aac3.css",
+    "main.js": "/Blog_Preview_Card_Frontend_Mentor/static/js/main.d0881c63.js",
+    "index.html": "/Blog_Preview_Card_Frontend_Mentor/index.html",
+    "main.bea1aac3.css.map": "/Blog_Preview_Card_Frontend_Mentor/static/css/main.bea1aac3.css.map",
+    "main.d0881c63.js.map": "/Blog_Preview_Card_Frontend_Mentor/static/js/main.d0881c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea1aac3.css",
+    "static/js/main.d0881c63.js"
+  ]
+}
